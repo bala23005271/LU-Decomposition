@@ -19,8 +19,8 @@ To write a program to find the LU Decomposition of a matrix.
 (i) To find the L and U matrix
 
 Program to find the L and U matrix.
-Developed by: SANTHOSH KUMAR R
-RegisterNumber:212223240153
+Developed by: BALA MURUGAN S
+RegisterNumber:212223230027
 
 import numpy as np
 from scipy.linalg import lu
@@ -31,8 +31,8 @@ print(U)
 (ii) To find the LU Decomposition of a matrix
 
 Program to find the LU Decomposition of a matrix.
-Developed by: SANTHOSH KUMAR R
-RegisterNumber: 212223240153
+Developed by: BALA MURUGAN S
+RegisterNumber: 212223230027
 import numpy as np
 from scipy.linalg import lu_factor, lu_solve
 A = np.array(eval(input()))
